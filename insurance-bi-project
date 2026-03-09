@@ -1,0 +1,13 @@
+insurance-bi-project
+│
+├── data
+│   ├── policy_sales_data.csv
+│   └── claims_data.csv
+│
+├── sql
+│   └── analysis_queries.sql
+│
+├── report
+│   └── BI_Insurance_Analytics_Report.pdf
+│
+└── README.md
